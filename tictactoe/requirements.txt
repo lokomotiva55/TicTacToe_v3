@@ -1,0 +1,9 @@
+Need:
+Static 3x3 board
+2 Players, each with different symbol
+Player input and switching
+Checking if someone won or draw
+
+Optiona:
+Play again
+Flexible board size
